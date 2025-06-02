@@ -18,29 +18,17 @@
     "./tokens/global/*.css": {
       "default": "./dist/tokens/global/*.css"
     },
-    "./tokens/global/*.min.css": {
-      "default": "./dist/tokens/global/*.min.css"
-    },
 
     "./tokens/semantic/*.css": {
       "default": "./dist/tokens/semantic/*.css"
-    },
-    "./tokens/semantic/*.min.css": {
-      "default": "./dist/tokens/semantic/*.min.css"
     },
 
     "./tokens/theme/*.css": {
       "default": "./dist/tokens/theme/*.css"
     },
-    "./tokens/theme/*.min.css": {
-      "default": "./dist/tokens/theme/*.min.css"
-    },
 
     "./components/*.css": {
       "default": "./dist/components/*.css"
-    },
-    "./components/*.min.css": {
-      "default": "./dist/components/*.min.css"
     }
   },
   "repository": {
