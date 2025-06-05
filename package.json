@@ -1,6 +1,6 @@
 {
   "name": "@netoum/themex-css",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The Corex Themex template for CSS. Provides global design tokens and Corex component styles.",
   "license": "MIT",
   "type": "module",
@@ -14,19 +14,15 @@
     "./style.min.css": {
       "default": "./dist/style.min.css"
     },
-    
     "./tokens/global/*.css": {
       "default": "./dist/tokens/global/*.css"
     },
-
     "./tokens/semantic/*.css": {
       "default": "./dist/tokens/semantic/*.css"
     },
-
     "./tokens/theme/*.css": {
       "default": "./dist/tokens/theme/*.css"
     },
-
     "./components/*.css": {
       "default": "./dist/components/*.css"
     }
@@ -52,6 +48,5 @@
     "style-dictionary": "^4.3.0",
     "turbo": "^2.5.0",
     "fs-extra": "^11.3.0"
-
   }
 }
