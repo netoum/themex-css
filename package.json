@@ -1,6 +1,6 @@
 {
   "name": "@netoum/themex-css",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The Corex Themex template for CSS. Provides global design tokens and Corex component styles.",
   "license": "MIT",
   "type": "module",
