@@ -66,23 +66,5 @@
         "type": "sizing"
       }
     }
-  },
-  "ratio": {
-    "xs": {
-      "value": "0.8",
-      "type": "number"
-    },
-    "sm": {
-      "value": "0.9",
-      "type": "number"
-    },
-    "lg": {
-      "value": "1.2",
-      "type": "number"
-    },
-    "xl": {
-      "value": "1.4",
-      "type": "number"
-    }
   }
 }
